@@ -1,0 +1,8 @@
+
+#============================== Configuration Spring Security. Default User.
+# Spring Security default authentication. Customize automatically created user.
+#spring:
+#  security:
+#    user:
+#      name: TRL
+#      password: pass
